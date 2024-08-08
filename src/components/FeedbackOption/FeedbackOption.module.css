@@ -10,4 +10,5 @@
 
 .optionButton:active {
   background-color: #4a8be1;
+  color: white;
 }
